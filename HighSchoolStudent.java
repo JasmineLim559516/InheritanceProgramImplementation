@@ -12,7 +12,7 @@ public class HighSchoolStudent extends Student {
     
     public void volunteer()
     {
-        System.out.println("I am volunteering at " + volunteerPlace);
+        System.out.println("I am volunteering at the " + volunteerPlace);
     }
     
     public void work()
